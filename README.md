@@ -1,3 +1,3 @@
-# automated-sales-analytics-dashboard
+# Revenue Operations / Sales Analytics Automation Project
 
-“Limitations & Future Improvements”
+
